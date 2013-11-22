@@ -1,8 +1,10 @@
 ---
-title: Ummm...Progress?
-date: 2013-11-01 21:21 UTC
+title: Whirlwind
+date: 2013-11-08 21:21 UTC
 tags:
 ---
+
+No sooner than when I was  beginning to understand Sinatra and how the pieces move to
 
 For our project this week, we split up into groups of three and the goal was to use Sinatra to replicate an existing website of a local business. I worked with Will and Darryl, and we chose to build the Clyfford Still Museum's website. The current site incorporated many of the skills that we were looking to learn, and we prioritized our project by laying out our desired functionality: 
 
